@@ -1,1 +1,1 @@
-# 2-Tier-web-architecture
+AWS EC2 Tag Enforcer project
